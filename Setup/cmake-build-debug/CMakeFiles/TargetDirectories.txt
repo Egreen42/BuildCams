@@ -1,0 +1,3 @@
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/cmake-build-debug/CMakeFiles/Setup.dir
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/cmake-build-debug/CMakeFiles/rebuild_cache.dir

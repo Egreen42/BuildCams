@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/BuildCams.cpp
+BuildCams.h
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/BuildCams.h
+
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/BuildCams.h
+iostream
+-
+string
+-
+fstream
+-
+
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+BuildCams.h
+C:/Users/ethan/Desktop/Pi's keep breaking/Setup/BuildCams.h
+
